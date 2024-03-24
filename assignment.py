@@ -2,7 +2,6 @@ import threading
 import random
 import queue
 
-# Constants
 LOWER_NUM = 1
 UPPER_NUM = 10000
 BUFFER_SIZE = 100
